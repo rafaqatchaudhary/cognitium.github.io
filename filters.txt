@@ -1,0 +1,6 @@
+! Title: Rafa's domain filter
+! Last modified: 2019-10-26 18:00:00
+||www.fuq.com^$important
+||fuq.com^$important
+||xhamster.com^$important
+||www.xhamster.com^$important
