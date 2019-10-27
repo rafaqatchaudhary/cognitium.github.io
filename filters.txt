@@ -4,3 +4,4 @@
 ||fuq.com^$important
 ||xhamster.com^$important
 ||www.xhamster.com^$important
+||www.bing.com^$important
