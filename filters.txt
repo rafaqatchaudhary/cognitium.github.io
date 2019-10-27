@@ -6,3 +6,4 @@
 ||www.xhamster.com^$important
 ||www.bing.com^$important
 ||graph.facebook.com^$important
+||donacalenta.com^$important
