@@ -5,3 +5,4 @@
 ||xhamster.com^$important
 ||www.xhamster.com^$important
 ||www.bing.com^$important
+||graph.facebook.com^$important
