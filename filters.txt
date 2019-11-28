@@ -7,4 +7,3 @@
 ||www.bing.com^$important
 ||graph.facebook.com^$important
 ||donacalenta.com^$important
-||youtube.com^$important
